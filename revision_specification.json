@@ -1,0 +1,39 @@
+{
+  "version": "BMC-20261031-v2",
+  "status": "round2_complete_author_placeholders_pending",
+  "cohorts": {
+    "A": 52,
+    "B": 45,
+    "C_projection_only": 63
+  },
+  "concordance": {
+    "tail": "positive_right",
+    "family": 8,
+    "primary_aggregation": "both",
+    "sensitivity_aggregation": "any",
+    "permutations": 20000
+  },
+  "L2": "recomputed full-cohort residual AUC; refitted bootstrap; repeated crossfit sensitivity",
+  "joint_simulation": "conditional pass rates; not biological validity test",
+  "baseline_manifest": "6f136c873ac3a6a320e7b037edd2ea00453adbe3e49b65bc5e0fdfc66b63503e",
+  "L1_tail_tolerance": 1e-10,
+  "L1_tail_tolerance_reason": "rank-derived null AUC rounded to 10 decimals; ties must count in the upper tail",
+  "numerical_amendment": "Rounded-AUC upper-tail ties corrected after a failing hand-calculable test; affected reference/calibration and simulation branches rerun.",
+  "benchmark": {
+    "module_scenarios": 3,
+    "replicates_per_scenario": 2000,
+    "noise_selection_repeats": 2000,
+    "inner_budget_pairs": 50,
+    "same_mechanism_seed_repeats": 2000,
+    "standalone_normal_score_repeats": 2000
+  },
+  "author_fields": "Highlighted placeholders retained at author request",
+  "round2_changes": [
+    "Separate standalone normal-score check from genuine seed-only module replication",
+    "Technical supplementary methods and covariate inventory",
+    "Figure 6 panel letters and unique supplementary table numbers",
+    "Precise support and validation wording",
+    "Probability AUC and intervals added to transfer table",
+    "Evidence-to-next-check interpretation table"
+  ]
+}

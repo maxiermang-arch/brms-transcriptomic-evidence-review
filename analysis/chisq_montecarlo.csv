@@ -1,0 +1,2 @@
+chi2,dof,p_asymptotic,p_montecarlo,n_mc,min_expected,n_cells_lt5,cramers_v
+48.585,9,1.984934115864196e-07,4.999750012499375e-05,20000,0.962,14,0.558

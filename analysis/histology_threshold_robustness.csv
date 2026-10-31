@@ -1,0 +1,17 @@
+threshold,estimand,n_flagged,flagged
+0.6,in_sample,4,BrMS1+BrMS2+BrMS3+BrMS4
+0.6,loo,3,BrMS1+BrMS2+BrMS4
+0.65,in_sample,4,BrMS1+BrMS2+BrMS3+BrMS4
+0.65,loo,2,BrMS2+BrMS4
+0.7,in_sample,4,BrMS1+BrMS2+BrMS3+BrMS4
+0.7,loo,1,BrMS2
+0.75,in_sample,2,BrMS2+BrMS4
+0.75,loo,1,BrMS2
+0.8,in_sample,1,BrMS2
+0.8,loo,1,BrMS2
+0.85,in_sample,1,BrMS2
+0.85,loo,1,BrMS2
+0.9,in_sample,1,BrMS2
+0.9,loo,0,(none)
+0.95,in_sample,1,BrMS2
+0.95,loo,0,(none)

@@ -1,0 +1,38 @@
+{
+  "simulation_pairs": 1800,
+  "subtype_assessments": 7200,
+  "proxy_tests": 24,
+  "crossfit_runs": 480,
+  "signal_small_complete": [
+    {
+      "subtype": 1,
+      "rate": 0.105,
+      "ci_lo": 0.06618122702871175,
+      "ci_hi": 0.15601870554750283
+    },
+    {
+      "subtype": 2,
+      "rate": 0.13,
+      "ci_lo": 0.0867083527685753,
+      "ci_hi": 0.18465233052341257
+    },
+    {
+      "subtype": 3,
+      "rate": 0.015,
+      "ci_lo": 0.003104107621553509,
+      "ci_hi": 0.0432082819177126
+    },
+    {
+      "subtype": 4,
+      "rate": 0.095,
+      "ci_lo": 0.05816960972512025,
+      "ci_hi": 0.14437663997685252
+    }
+  ],
+  "proxy_false_pass_range": [
+    0.0355,
+    0.122
+  ],
+  "proxy_anti_conservative": 8,
+  "proxy_conservative": 2
+}

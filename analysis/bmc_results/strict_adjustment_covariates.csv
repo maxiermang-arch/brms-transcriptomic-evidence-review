@@ -1,0 +1,9 @@
+cohort,subtype,covariates,code_columns,excluded_unavailable
+A,1,Immune mean; Fibroblast; Epithelial; ESTIMATE stromal; ESTIMATE immune; ESTIMATE total; ESTIMATE purity,免疫合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal; ESTIMATE_Immune; ESTIMATE_score; Purity_ESTIMATE,
+A,2,Brain mean; Fibroblast; Epithelial; ESTIMATE stromal,脑组织合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal,
+A,3,Brain mean; Immune mean; Fibroblast; ESTIMATE immune; ESTIMATE total,脑组织合计; 免疫合计; 基质-成纤维; ESTIMATE_Immune; ESTIMATE_score,
+A,4,Brain mean; Immune mean; Fibroblast; Epithelial; ESTIMATE stromal; ESTIMATE immune; ESTIMATE total; ESTIMATE purity,脑组织合计; 免疫合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal; ESTIMATE_Immune; ESTIMATE_score; Purity_ESTIMATE,
+B,1,Immune mean; Fibroblast; Epithelial; ESTIMATE stromal; ESTIMATE immune; ESTIMATE total; ESTIMATE purity,免疫合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal; ESTIMATE_Immune; ESTIMATE_score; Purity_ESTIMATE,
+B,2,Brain mean; Fibroblast; Epithelial; ESTIMATE stromal,脑组织合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal,
+B,3,Brain mean; Immune mean; Fibroblast; ESTIMATE immune; ESTIMATE total,脑组织合计; 免疫合计; 基质-成纤维; ESTIMATE_Immune; ESTIMATE_score,
+B,4,Brain mean; Immune mean; Fibroblast; Epithelial; ESTIMATE stromal; ESTIMATE immune; ESTIMATE total; ESTIMATE purity,脑组织合计; 免疫合计; 基质-成纤维; 上皮-肿瘤; ESTIMATE_Stromal; ESTIMATE_Immune; ESTIMATE_score; Purity_ESTIMATE,

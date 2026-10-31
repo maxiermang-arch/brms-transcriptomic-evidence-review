@@ -1,0 +1,7 @@
+{
+  "rounded_ties_counted_in_tail": true,
+  "add_one_tail": true,
+  "negative_concordance_rejected": true,
+  "both_any_distinguished": true,
+  "opposite_spectrum_right_tail": true
+}

@@ -1,0 +1,5 @@
+subtype,subtype_name,n_pos,histology_only_auc_in_sample,histology_only_auc_loo,loo_unpenalized_newton,loo_unpenalized_bfgs,loo_unpenalized_lbfgs,loo_unpenalized_spread,loo_separation_sensitive,loo_maxabs_beta_unpenalized,loo_maxabs_beta_ridge,loo_penalty_alpha,loo_lo,loo_hi,loo_ci_width,n_boot_valid,n_boot
+1,BrMS1 neural,10,0.7298,0.6143,0.6143,0.6143,0.6143,0.0,False,20.46,2.9,0.25,0.3944,0.8182,0.4237,2000,2000
+2,BrMS2 immune/EMT,13,0.9566,0.8757,0.9172,0.8757,0.8757,0.0414,True,24.25,5.94,0.25,0.6995,1.0,0.3005,2000,2000
+3,BrMS3 metabolic,17,0.7277,0.5345,0.5345,0.5345,0.5345,0.0,False,27.44,3.96,0.25,0.3876,0.6851,0.2975,2000,2000
+4,BrMS4 prolif.,12,0.7781,0.65,0.65,0.65,0.65,0.0,False,25.08,3.22,0.25,0.5045,0.7916,0.2871,2000,2000

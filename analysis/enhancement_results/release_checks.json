@@ -1,0 +1,9 @@
+{
+  "proxy_rows": 24,
+  "crossfit_runs": 480,
+  "simulation_pairs": 1800,
+  "subtype_rows": 7200,
+  "all_conjunctions_and_ablations_match": true,
+  "probabilities_normalized": true,
+  "input_and_R_numeric_checks_pass": true
+}

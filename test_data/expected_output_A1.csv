@@ -1,0 +1,5 @@
+subtype,n,auc_in_sample,auc_loo,flagged
+1,15,0.7326,0.5452,False
+2,15,0.7111,0.5407,False
+3,15,1.0,1.0,True
+4,15,0.6881,0.4222,False

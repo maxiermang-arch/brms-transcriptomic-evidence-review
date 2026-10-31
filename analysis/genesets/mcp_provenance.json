@@ -1,0 +1,12 @@
+{
+  "mcp_genes.txt": {
+    "url": "https://raw.githubusercontent.com/ebecht/MCPcounter/master/Signatures/genes.txt",
+    "sha256": "408f6c5d02c8f9bd2f1599c598367881853520934f8ce398a4886a8b296922bb",
+    "retrieved": "2026-10-31"
+  },
+  "MCPcounter.R": {
+    "url": "https://raw.githubusercontent.com/ebecht/MCPcounter/master/Source/R/MCPcounter.R",
+    "sha256": "f672830d5e98685a28a59c9c50aca724f05ecb675cea75cb3c7d0e20c1254260",
+    "retrieved": "2026-10-31"
+  }
+}

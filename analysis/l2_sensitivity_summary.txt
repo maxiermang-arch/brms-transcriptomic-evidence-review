@@ -1,0 +1,79 @@
+  NOTE cohort A: dropped 2 sample(s) with no usable counts: BREBRM21-B, BREBRM46-B
+====================================================================================================
+Cohort A   n = 52   purity columns present: ['ESTIMATE_Stromal', 'ESTIMATE_Immune', 'ESTIMATE_score', 'Purity_ESTIMATE']
+====================================================================================================
+
+  BrMS1 (BrMS1 neural)   own panel = ['脑组织合计']   own ESTIMATE = none
+    program genes used = 123    raw AUC = 0.931
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.474      0.512   [0.362, 0.620]       -0.457   rank 8/9  cond 1.91e+15  max|r| 0.986
+    leaveown_current     7      0.688      0.667   [0.484, 0.852]       -0.243   rank 7/8  cond 1.92e+15  max|r| 0.986
+    leaveown_strict      7      0.688      0.667   [0.484, 0.852]       -0.243   rank 7/8  cond 1.92e+15  max|r| 0.986
+    purity_only          1      0.838      0.848   [0.616, 0.963]       -0.093   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.776      0.757   [0.593, 0.924]       -0.155   rank 4/4  cond 2.52  max|r| 0.532
+
+  BrMS2 (BrMS2 immune/EMT)   own panel = ['免疫合计']   own ESTIMATE = ['ESTIMATE_Immune', 'ESTIMATE_score', 'Purity_ESTIMATE']
+    program genes used = 17    raw AUC = 0.708
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.479      0.481   [0.359, 0.605]       -0.229   rank 8/9  cond 1.91e+15  max|r| 0.986
+    leaveown_current     7      0.477      0.450   [0.353, 0.602]       -0.231   rank 7/8  cond 1.74e+15  max|r| 0.986
+    leaveown_strict      4      0.542      0.544   [0.404, 0.676]       -0.166   rank 5/5  cond 4.18  max|r| 0.757
+    purity_only          1      0.686      0.682   [0.493, 0.852]       -0.022   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.562      0.554   [0.419, 0.674]       -0.146   rank 4/4  cond 1.29  max|r| 0.224
+
+  BrMS3 (BrMS3 metabolic)   own panel = ['上皮-肿瘤']   own ESTIMATE = ['ESTIMATE_Stromal', 'Purity_ESTIMATE']
+    program genes used = 9    raw AUC = 0.884
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.509      0.514   [0.384, 0.644]       -0.375   rank 8/9  cond 1.91e+15  max|r| 0.986
+    leaveown_current     7      0.783      0.723   [0.626, 0.908]       -0.101   rank 7/8  cond 1.91e+15  max|r| 0.986
+    leaveown_strict      5      0.787      0.738   [0.625, 0.910]       -0.097   rank 6/6  cond 23.6  max|r| 0.969
+    purity_only          1      0.855      0.837   [0.748, 0.944]       -0.029   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.825      0.817   [0.706, 0.933]       -0.059   rank 4/4  cond 1.89  max|r| 0.532
+
+  BrMS4 (BrMS4 prolif.)   own panel = none   own ESTIMATE = none
+    program genes used = 315    raw AUC = 0.888
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.917      0.919   [0.768, 0.990]       +0.029   rank 8/9  cond 1.91e+15  max|r| 0.986
+    leaveown_current     8      0.917      0.919   [0.768, 0.990]       +0.029   rank 8/9  cond 1.91e+15  max|r| 0.986
+    leaveown_strict      8      0.917      0.919   [0.768, 0.990]       +0.029   rank 8/9  cond 1.91e+15  max|r| 0.986
+    purity_only          1      0.850      0.842   [0.734, 0.952]       -0.037   rank 2/2  cond 1  max|r| nan
+    no_estimate          4      0.896      0.887   [0.748, 0.971]       +0.008   rank 5/5  cond 2.6  max|r| 0.532
+====================================================================================================
+Cohort B   n = 45   purity columns present: ['ESTIMATE_Stromal', 'ESTIMATE_Immune', 'ESTIMATE_score', 'Purity_ESTIMATE']
+====================================================================================================
+
+  BrMS1 (BrMS1 neural)   own panel = ['脑组织合计']   own ESTIMATE = none
+    program genes used = 113    raw AUC = 0.872
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.471      0.433   [0.296, 0.590]       -0.401   rank 8/9  cond 1.14e+15  max|r| 0.985
+    leaveown_current     7      0.711      0.743   [0.519, 0.883]       -0.160   rank 7/8  cond 1.14e+15  max|r| 0.985
+    leaveown_strict      7      0.711      0.743   [0.519, 0.883]       -0.160   rank 7/8  cond 1.14e+15  max|r| 0.985
+    purity_only          1      0.856      0.837   [0.709, 0.957]       -0.016   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.781      0.781   [0.602, 0.932]       -0.091   rank 4/4  cond 2.14  max|r| 0.637
+
+  BrMS2 (BrMS2 immune/EMT)   own panel = ['免疫合计']   own ESTIMATE = ['ESTIMATE_Immune', 'ESTIMATE_score', 'Purity_ESTIMATE']
+    program genes used = 17    raw AUC = 0.932
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.447      0.545   [0.270, 0.682]       -0.485   rank 8/9  cond 1.14e+15  max|r| 0.985
+    leaveown_current     7      0.564      0.605   [0.349, 0.825]       -0.368   rank 7/8  cond 1.02e+15  max|r| 0.985
+    leaveown_strict      4      0.695      0.707   [0.457, 0.910]       -0.237   rank 5/5  cond 5.43  max|r| 0.888
+    purity_only          1      0.571      0.575   [0.291, 0.886]       -0.361   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.774      0.778   [0.541, 0.977]       -0.158   rank 4/4  cond 1.59  max|r| 0.425
+
+  BrMS3 (BrMS3 metabolic)   own panel = ['上皮-肿瘤']   own ESTIMATE = ['ESTIMATE_Stromal', 'Purity_ESTIMATE']
+    program genes used = 9    raw AUC = 0.860
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.496      0.482   [0.353, 0.625]       -0.364   rank 8/9  cond 1.14e+15  max|r| 0.985
+    leaveown_current     7      0.649      0.658   [0.509, 0.788]       -0.211   rank 7/8  cond 1.1e+15  max|r| 0.985
+    leaveown_strict      5      0.653      0.640   [0.509, 0.784]       -0.207   rank 6/6  cond 18.7  max|r| 0.962
+    purity_only          1      0.831      0.811   [0.692, 0.938]       -0.029   rank 2/2  cond 1  max|r| nan
+    no_estimate          3      0.789      0.784   [0.627, 0.910]       -0.071   rank 4/4  cond 2.12  max|r| 0.637
+
+  BrMS4 (BrMS4 prolif.)   own panel = none   own ESTIMATE = none
+    program genes used = 324    raw AUC = 0.775
+    adjustment set       k  in-sample  cross-fit           boot 95% CI  delta vs raw
+    full                 8      0.619      0.639   [0.429, 0.778]       -0.157   rank 8/9  cond 1.14e+15  max|r| 0.985
+    leaveown_current     8      0.619      0.639   [0.429, 0.778]       -0.157   rank 8/9  cond 1.14e+15  max|r| 0.985
+    leaveown_strict      8      0.619      0.639   [0.429, 0.778]       -0.157   rank 8/9  cond 1.14e+15  max|r| 0.985
+    purity_only          1      0.753      0.750   [0.606, 0.883]       -0.023   rank 2/2  cond 1  max|r| nan
+    no_estimate          4      0.667      0.684   [0.498, 0.829]       -0.109   rank 5/5  cond 2.15  max|r| 0.637

@@ -1,0 +1,13 @@
+drug,subtype,n_in,n_out,median_in,median_out,p_two_sided,p_one_sided,q_per_drug,q_directional,pre_specified,control,passes_L5
+abe,1,6,18,0.6611,0.5175,0.9741,0.538731,0.9741,0.983499,none,directed,False
+abe,2,6,18,1.1108,0.3553,0.03957,0.983499,0.07914,0.983499,none,directed,False
+abe,3,6,18,0.8298,0.5727,0.155636,0.931736,0.207515,0.983499,none,directed,False
+abe,4,6,18,0.0765,0.7073,1.5e-05,7e-06,6e-05,2.8e-05,BrMS4 more sensitive,directed,True
+gam,1,6,18,0.686,0.8465,0.580522,0.290261,0.580522,0.580522,none,directed,False
+gam,2,6,18,1.0824,0.5447,0.279592,0.874565,0.559184,0.874565,none,directed,False
+gam,3,6,18,0.5168,0.924,0.250869,0.125435,0.559184,0.50174,none,directed,False
+gam,4,6,18,1.0235,0.7087,0.536584,0.752898,0.580522,0.874565,none,directed,False
+eve,1,6,18,0.4977,0.3576,0.820411,0.410205,0.820411,0.810938,none,undirected control,False
+eve,2,6,18,0.2677,0.455,0.176513,0.088257,0.604912,0.353028,none,undirected control,False
+eve,3,6,18,0.455,0.3576,0.453684,0.792557,0.604912,0.810938,none,undirected control,False
+eve,4,6,18,0.5108,0.3809,0.414886,0.810938,0.604912,0.810938,none,undirected control,False

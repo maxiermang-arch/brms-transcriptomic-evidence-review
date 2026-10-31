@@ -1,0 +1,5 @@
+subtype,n,c1_bestAUC,c2_bestAUC,spearman_rho,p_perm,sig,top10_Jaccard,median|dAUC|
+BrMS1 neural,10v11,0.931,0.872,0.635,0.0765,ns,0.538,0.22
+BrMS2 immune/EMT,13v7,0.6,0.966,0.01,0.5327,ns,0.176,0.4
+BrMS3 metabolic,17v15,0.694,0.742,0.589,0.0275,*,0.333,0.078
+BrMS4 proliferative,12v12,0.883,0.79,0.12,0.3903,ns,0.25,0.135

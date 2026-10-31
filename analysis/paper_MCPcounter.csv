@@ -1,0 +1,136 @@
+celltype,.y.,group1,group2,p,p.adj,p.format,p.signif,method
+T cells,value,1,2,0.0468201512342316,1.0,0.04682,*,Wilcoxon
+T cells,value,1,3,0.00025553278888694,0.028,0.00026,***,Wilcoxon
+T cells,value,1,4,3.21991164742524e-08,4.1e-06,3.2e-08,****,Wilcoxon
+T cells,value,1,Primary,0.0175982399845749,1.0,0.01760,*,Wilcoxon
+T cells,value,1,GBM,0.0616901741236076,1.0,0.06169,ns,Wilcoxon
+T cells,value,2,3,0.15271812021862,1.0,0.15272,ns,Wilcoxon
+T cells,value,2,4,0.00234565164948565,0.22,0.00235,**,Wilcoxon
+T cells,value,2,Primary,0.89195538273301,1.0,0.89196,ns,Wilcoxon
+T cells,value,2,GBM,0.861270026084859,1.0,0.86127,ns,Wilcoxon
+T cells,value,3,4,0.0854808165899243,1.0,0.08548,ns,Wilcoxon
+T cells,value,3,Primary,0.193437473902155,1.0,0.19344,ns,Wilcoxon
+T cells,value,3,GBM,0.440655632105796,1.0,0.44066,ns,Wilcoxon
+T cells,value,4,Primary,0.00210246629139041,0.2,0.00210,**,Wilcoxon
+T cells,value,4,GBM,0.0365266505987582,1.0,0.03653,*,Wilcoxon
+T cells,value,Primary,GBM,0.849590330870705,1.0,0.84959,ns,Wilcoxon
+Cytotoxic lymphocytes,value,1,2,0.37554257613298,1.0,0.37554,ns,Wilcoxon
+Cytotoxic lymphocytes,value,1,3,3.03200369303767e-05,0.0035,3.0e-05,****,Wilcoxon
+Cytotoxic lymphocytes,value,1,4,4.18345173491916e-07,5.2e-05,4.2e-07,****,Wilcoxon
+Cytotoxic lymphocytes,value,1,Primary,0.0331866283418586,1.0,0.03319,*,Wilcoxon
+Cytotoxic lymphocytes,value,1,GBM,0.171807296673182,1.0,0.17181,ns,Wilcoxon
+Cytotoxic lymphocytes,value,2,3,0.00603879135697263,0.54,0.00604,**,Wilcoxon
+Cytotoxic lymphocytes,value,2,4,0.000611817803208995,0.064,0.00061,***,Wilcoxon
+Cytotoxic lymphocytes,value,2,Primary,0.350254892133789,1.0,0.35025,ns,Wilcoxon
+Cytotoxic lymphocytes,value,2,GBM,0.358154539458251,1.0,0.35815,ns,Wilcoxon
+Cytotoxic lymphocytes,value,3,4,0.621061520954245,1.0,0.62106,ns,Wilcoxon
+Cytotoxic lymphocytes,value,3,Primary,0.064867029877962,1.0,0.06487,ns,Wilcoxon
+Cytotoxic lymphocytes,value,3,GBM,0.133304489795667,1.0,0.13330,ns,Wilcoxon
+Cytotoxic lymphocytes,value,4,Primary,0.0104443399544403,0.88,0.01044,*,Wilcoxon
+Cytotoxic lymphocytes,value,4,GBM,0.0303805164304673,1.0,0.03038,*,Wilcoxon
+Cytotoxic lymphocytes,value,Primary,GBM,0.996637526525844,1.0,0.99664,ns,Wilcoxon
+B lineage,value,1,2,0.148660262661625,1.0,0.14866,ns,Wilcoxon
+B lineage,value,1,3,2.58301813450764e-05,0.003,2.6e-05,****,Wilcoxon
+B lineage,value,1,4,1.68747451702978e-10,2.2e-08,1.7e-10,****,Wilcoxon
+B lineage,value,1,Primary,0.0122074256508323,1.0,0.01221,*,Wilcoxon
+B lineage,value,1,GBM,0.132915666166529,1.0,0.13292,ns,Wilcoxon
+B lineage,value,2,3,0.0376669191185401,1.0,0.03767,*,Wilcoxon
+B lineage,value,2,4,0.000206682687284655,0.023,0.00021,***,Wilcoxon
+B lineage,value,2,Primary,0.416279686520714,1.0,0.41628,ns,Wilcoxon
+B lineage,value,2,GBM,0.81721291320796,1.0,0.81721,ns,Wilcoxon
+B lineage,value,3,4,0.0291985664645578,1.0,0.02920,*,Wilcoxon
+B lineage,value,3,Primary,0.355575800479313,1.0,0.35558,ns,Wilcoxon
+B lineage,value,3,GBM,0.217578200700118,1.0,0.21758,ns,Wilcoxon
+B lineage,value,4,Primary,0.0129725181399851,1.0,0.01297,*,Wilcoxon
+B lineage,value,4,GBM,0.00535848937804399,0.48,0.00536,**,Wilcoxon
+B lineage,value,Primary,GBM,0.575141858671466,1.0,0.57514,ns,Wilcoxon
+NK cells,value,1,2,0.0300722054384542,1.0,0.03007,*,Wilcoxon
+NK cells,value,1,3,0.0211272330878333,1.0,0.02113,*,Wilcoxon
+NK cells,value,1,4,0.0486865670971348,1.0,0.04869,*,Wilcoxon
+NK cells,value,1,Primary,0.00221007066368141,0.21,0.00221,**,Wilcoxon
+NK cells,value,1,GBM,0.0022730005897395,0.22,0.00227,**,Wilcoxon
+NK cells,value,2,3,0.914925415789422,1.0,0.91493,ns,Wilcoxon
+NK cells,value,2,4,0.708799455207,1.0,0.70880,ns,Wilcoxon
+NK cells,value,2,Primary,0.404399616315502,1.0,0.40440,ns,Wilcoxon
+NK cells,value,2,GBM,0.113172328665905,1.0,0.11317,ns,Wilcoxon
+NK cells,value,3,4,0.815764348491347,1.0,0.81576,ns,Wilcoxon
+NK cells,value,3,Primary,0.352495556236274,1.0,0.35250,ns,Wilcoxon
+NK cells,value,3,GBM,0.103556826204395,1.0,0.10356,ns,Wilcoxon
+NK cells,value,4,Primary,0.263697305350096,1.0,0.26370,ns,Wilcoxon
+NK cells,value,4,GBM,0.0829011927987751,1.0,0.08290,ns,Wilcoxon
+NK cells,value,Primary,GBM,0.326139366509654,1.0,0.32614,ns,Wilcoxon
+Monocytic lineage,value,1,2,0.0112385898541653,0.93,0.01124,*,Wilcoxon
+Monocytic lineage,value,1,3,2.86222739697774e-07,3.6e-05,2.9e-07,****,Wilcoxon
+Monocytic lineage,value,1,4,1.12808327141709e-14,1.5e-12,1.1e-14,****,Wilcoxon
+Monocytic lineage,value,1,Primary,0.000382879269711469,0.042,0.00038,***,Wilcoxon
+Monocytic lineage,value,1,GBM,0.0997310156629462,1.0,0.09973,ns,Wilcoxon
+Monocytic lineage,value,2,3,0.0263578459060092,1.0,0.02636,*,Wilcoxon
+Monocytic lineage,value,2,4,2.54690799902997e-06,0.00031,2.5e-06,****,Wilcoxon
+Monocytic lineage,value,2,Primary,0.458182595584918,1.0,0.45818,ns,Wilcoxon
+Monocytic lineage,value,2,GBM,0.00050471405089981,0.055,0.00050,***,Wilcoxon
+Monocytic lineage,value,3,4,0.00919083266910236,0.79,0.00919,**,Wilcoxon
+Monocytic lineage,value,3,Primary,0.189405395055883,1.0,0.18941,ns,Wilcoxon
+Monocytic lineage,value,3,GBM,4.06767881031796e-06,0.00049,4.1e-06,****,Wilcoxon
+Monocytic lineage,value,4,Primary,0.000122804127481213,0.014,0.00012,***,Wilcoxon
+Monocytic lineage,value,4,GBM,2.57645362636481e-09,3.3e-07,2.6e-09,****,Wilcoxon
+Monocytic lineage,value,Primary,GBM,5.12412007755635e-05,0.0059,5.1e-05,****,Wilcoxon
+Myeloid dendritic cells,value,1,2,0.160195996422503,1.0,0.16020,ns,Wilcoxon
+Myeloid dendritic cells,value,1,3,2.30183929323029e-05,0.0027,2.3e-05,****,Wilcoxon
+Myeloid dendritic cells,value,1,4,1.31235045428346e-08,1.7e-06,1.3e-08,****,Wilcoxon
+Myeloid dendritic cells,value,1,Primary,0.0653893151262928,1.0,0.06539,ns,Wilcoxon
+Myeloid dendritic cells,value,1,GBM,0.226809687103781,1.0,0.22681,ns,Wilcoxon
+Myeloid dendritic cells,value,2,3,0.0601355634972416,1.0,0.06014,ns,Wilcoxon
+Myeloid dendritic cells,value,2,4,0.00265682893143492,0.25,0.00266,**,Wilcoxon
+Myeloid dendritic cells,value,2,Primary,0.964997142092843,1.0,0.96500,ns,Wilcoxon
+Myeloid dendritic cells,value,2,GBM,0.959535804549965,1.0,0.95954,ns,Wilcoxon
+Myeloid dendritic cells,value,3,4,0.20110941204342,1.0,0.20111,ns,Wilcoxon
+Myeloid dendritic cells,value,3,Primary,0.0356210363915029,1.0,0.03562,*,Wilcoxon
+Myeloid dendritic cells,value,3,GBM,0.0340434431642696,1.0,0.03404,*,Wilcoxon
+Myeloid dendritic cells,value,4,Primary,0.000753261701735102,0.078,0.00075,***,Wilcoxon
+Myeloid dendritic cells,value,4,GBM,0.00263937501656123,0.25,0.00264,**,Wilcoxon
+Myeloid dendritic cells,value,Primary,GBM,0.996637526525844,1.0,0.99664,ns,Wilcoxon
+Neutrophils,value,1,2,0.203972830576298,1.0,0.20397,ns,Wilcoxon
+Neutrophils,value,1,3,0.000596448563396447,0.063,0.00060,***,Wilcoxon
+Neutrophils,value,1,4,4.28965516894791e-07,5.3e-05,4.3e-07,****,Wilcoxon
+Neutrophils,value,1,Primary,0.0177356043161142,1.0,0.01774,*,Wilcoxon
+Neutrophils,value,1,GBM,0.379580891425126,1.0,0.37958,ns,Wilcoxon
+Neutrophils,value,2,3,0.171852920471622,1.0,0.17185,ns,Wilcoxon
+Neutrophils,value,2,4,0.00850303319418764,0.74,0.00850,**,Wilcoxon
+Neutrophils,value,2,Primary,0.532089401987127,1.0,0.53209,ns,Wilcoxon
+Neutrophils,value,2,GBM,0.0985871269183359,1.0,0.09859,ns,Wilcoxon
+Neutrophils,value,3,4,0.144734814542459,1.0,0.14473,ns,Wilcoxon
+Neutrophils,value,3,Primary,0.285002344555741,1.0,0.28500,ns,Wilcoxon
+Neutrophils,value,3,GBM,0.00114606620999432,0.12,0.00115,**,Wilcoxon
+Neutrophils,value,4,Primary,0.0189933303360281,1.0,0.01899,*,Wilcoxon
+Neutrophils,value,4,GBM,5.89337357385094e-05,0.0068,5.9e-05,****,Wilcoxon
+Neutrophils,value,Primary,GBM,0.0140139118737109,1.0,0.01401,*,Wilcoxon
+Endothelial cells,value,1,2,0.00166614289966343,0.16,0.00167,**,Wilcoxon
+Endothelial cells,value,1,3,1.62747158111852e-09,2.1e-07,1.6e-09,****,Wilcoxon
+Endothelial cells,value,1,4,5.48493389963196e-11,7.3e-09,5.5e-11,****,Wilcoxon
+Endothelial cells,value,1,Primary,0.00163556624135082,0.16,0.00164,**,Wilcoxon
+Endothelial cells,value,1,GBM,0.000538414617272172,0.058,0.00054,***,Wilcoxon
+Endothelial cells,value,2,3,0.0279200258565937,1.0,0.02792,*,Wilcoxon
+Endothelial cells,value,2,4,0.0224935022567817,1.0,0.02249,*,Wilcoxon
+Endothelial cells,value,2,Primary,0.599920950565529,1.0,0.59992,ns,Wilcoxon
+Endothelial cells,value,2,GBM,7.22461023534699e-07,8.8e-05,7.2e-07,****,Wilcoxon
+Endothelial cells,value,3,4,0.712424053963376,1.0,0.71242,ns,Wilcoxon
+Endothelial cells,value,3,Primary,0.0011703764950521,0.12,0.00117,**,Wilcoxon
+Endothelial cells,value,3,GBM,1.81721016778885e-08,2.3e-06,1.8e-08,****,Wilcoxon
+Endothelial cells,value,4,Primary,0.000636163292586119,0.066,0.00064,***,Wilcoxon
+Endothelial cells,value,4,GBM,3.69696984132512e-10,4.9e-08,3.7e-10,****,Wilcoxon
+Endothelial cells,value,Primary,GBM,2.54953491044423e-07,3.2e-05,2.5e-07,****,Wilcoxon
+Fibroblasts,value,1,2,0.636234619232144,1.0,0.63623,ns,Wilcoxon
+Fibroblasts,value,1,3,0.00615205736155043,0.54,0.00615,**,Wilcoxon
+Fibroblasts,value,1,4,0.00157974379007818,0.16,0.00158,**,Wilcoxon
+Fibroblasts,value,1,Primary,0.781643466743465,1.0,0.78164,ns,Wilcoxon
+Fibroblasts,value,1,GBM,0.0925643622742617,1.0,0.09256,ns,Wilcoxon
+Fibroblasts,value,2,3,0.0343495264391779,1.0,0.03435,*,Wilcoxon
+Fibroblasts,value,2,4,0.0201767159457737,1.0,0.02018,*,Wilcoxon
+Fibroblasts,value,2,Primary,0.813327239148245,1.0,0.81333,ns,Wilcoxon
+Fibroblasts,value,2,GBM,0.0531611697870688,1.0,0.05316,ns,Wilcoxon
+Fibroblasts,value,3,4,0.727180959638048,1.0,0.72718,ns,Wilcoxon
+Fibroblasts,value,3,Primary,0.00974799342701782,0.83,0.00975,**,Wilcoxon
+Fibroblasts,value,3,GBM,0.000298003719234143,0.033,0.00030,***,Wilcoxon
+Fibroblasts,value,4,Primary,0.00309357041089125,0.28,0.00309,**,Wilcoxon
+Fibroblasts,value,4,GBM,0.00013251132340047,0.015,0.00013,***,Wilcoxon
+Fibroblasts,value,Primary,GBM,0.0530713580134623,1.0,0.05307,ns,Wilcoxon

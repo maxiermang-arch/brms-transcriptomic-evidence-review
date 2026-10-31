@@ -1,0 +1,9 @@
+cohort,subtype,n_genes,program,raw_auc,adj_brain_auc,adj_full_auc,delta_auc,R2_on_covars
+A,BrMS1 neural,123,Neuron Projection Guidance (GO:0097485),0.932,0.586,0.423,-0.509,0.799
+A,BrMS2 immune/EMT,17,免疫标记 (CD3/CD8/髓系/C1Q),0.713,0.73,0.469,-0.244,0.982
+A,BrMS3 metabolic,9,上皮连接 (CDH1/EPCAM/KRT8-19/CLDN),0.871,0.86,0.474,-0.397,0.973
+A,BrMS4 prolif.,315,E2F Targets + G2-M Checkpoint,0.887,0.889,0.889,0.002,0.283
+B,BrMS1 neural,113,Neuron Projection Guidance (GO:0097485),0.872,0.508,0.439,-0.433,0.669
+B,BrMS2 immune/EMT,17,免疫标记 (CD3/CD8/髓系/C1Q),0.932,0.929,0.44,-0.492,0.974
+B,BrMS3 metabolic,9,上皮连接 (CDH1/EPCAM/KRT8-19/CLDN),0.86,0.818,0.509,-0.351,0.863
+B,BrMS4 prolif.,324,E2F Targets + G2-M Checkpoint,0.775,0.775,0.601,-0.174,0.474

@@ -1,0 +1,5 @@
+subtype,n_called,sd_scores_A,sd_scores_C,compressed_in_C
+1,8,1.0084,0.8346,True
+2,14,1.0084,0.8815,True
+3,12,1.0084,0.9787,True
+4,6,1.0084,0.7254,True

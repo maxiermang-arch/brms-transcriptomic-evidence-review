@@ -1,0 +1,234 @@
+[
+  {
+    "path": "data/.DS_Store",
+    "sha256": "8b661e9afc5b63f75493bd5705106b9873f616a3f7b40e5467a13504ba893bd1"
+  },
+  {
+    "path": "data/DOWNLOAD.sh",
+    "sha256": "1a223dd278cb173c5e2a642a22419e3c7dbc6d04ebdb8d9804d0aa5ab92cedbe"
+  },
+  {
+    "path": "data/MANIFEST.md",
+    "sha256": "f22091eb6653102efb6031aeaf9fc6612d8efdd42ded7da1d2d0d82ea4f8701f"
+  },
+  {
+    "path": "data/SHA256SUMS.txt",
+    "sha256": "78df4a4dd25286dd3b5594b34fe0f1e6b9fc949a43f65d21725c0391c04e26c5"
+  },
+  {
+    "path": "data/geo/EMTAB8659_processed_all.txt",
+    "sha256": "27254aecc52d07c1c6e1929eedc22346d9eec271152d15fe6d92e0865ab94595"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/E-MTAB-8659.idf.txt",
+    "sha256": "0bf26fcfc6e7dbfd49db1ab0e6f074c0b82068b3d605a88e9288abc8aaf44fff"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/E-MTAB-8659.sdrf.txt",
+    "sha256": "769d0b9a226e5ef173c77c21f389963d187bb1bfdd24cc9bce230c8d23e0162e"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/processed_all.txt",
+    "sha256": "6fd6fe5b8246b38e4c03a13ce4c874a0172555035343062f982d20e219892e08"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/processed_all.txt.full",
+    "sha256": "6fd6fe5b8246b38e4c03a13ce4c874a0172555035343062f982d20e219892e08"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/processed_all.txt.partial",
+    "sha256": "51594057cc2676f15b21291be6bb82b59aa560ad43d1be793852d590474c22a5"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/processed_all.txt_97qEEl",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "data/geo/EMTAB8659_unfiltered/processed_all.txt_DE2M0B",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "data/geo/GSE164150_Metabolomics_log2.csv.gz",
+    "sha256": "875356a4b2b6d162f2f6041c6b3d4e68f83bf5b96389079ccbe68393b24dadec"
+  },
+  {
+    "path": "data/geo/GSE164150_Proteomics_log2.csv.gz",
+    "sha256": "dc71ab7898412255e1710587b9cf8dbbfb62590e1ef7d5b4fde2309d49bafcfd"
+  },
+  {
+    "path": "data/geo/GSE184869_matrix.xlsx",
+    "sha256": "1519f2400cc0e2e82a18599d7c6711745d48aa0107941baff5c9314c64d70f95"
+  },
+  {
+    "path": "data/geo/GSE184869_rna_seq_batch_corrected_log2_TMM_normalised_CPM_protein_coding_genes.xlsx",
+    "sha256": "ac64f1def9bf6567fe1d2c8c6b15a84d9eae675a8b64e783dc70a95babdf80d6"
+  },
+  {
+    "path": "data/geo/GSE245467_Brainmets_raw_counts.xlsx",
+    "sha256": "a5a0dd1ea0523bc0ce557a35c4ebf27bfd5bf42aff72344328b73d6839b4d483"
+  },
+  {
+    "path": "data/metabolights/a_MTBLS13554_LC-MS___metabolite_profiling.txt",
+    "sha256": "7a7de1a7c72a8b05c1d640ebc347866ca2cc595acb39a8157d75ba5c8f405f17"
+  },
+  {
+    "path": "data/metabolights/i_Investigation.txt",
+    "sha256": "21a4dfe371b135ce5a4975dd515fa76d22051a5a7c6219b6aca200af04cff3d7"
+  },
+  {
+    "path": "data/metabolights/m_MTBLS13554_LC-MS___metabolite_profiling_v2_maf.tsv",
+    "sha256": "6c9a0ebad18d54562d26a5da75dbb48b9c64d327c15b4c10c69b00b83b507e19"
+  },
+  {
+    "path": "data/metabolights/mzML/B282T.mzML",
+    "sha256": "960b7dc2bfdbe2d092b62e94a8c4005639c3ba32883e667ac989790ba86a6b51"
+  },
+  {
+    "path": "data/metabolights/s_MTBLS13554.txt",
+    "sha256": "861a2043c3bc4519a96913861873c06bb1498376db610873b2e68e046847a45e"
+  },
+  {
+    "path": "data/proteomics/DIA_Summary.xlsx",
+    "sha256": "c74a37a096ad417c29cf84b4c351b4878e8b1e8472c0a660e5ff9c23ee80f76a"
+  },
+  {
+    "path": "data/purity/abis_crosscheck.csv",
+    "sha256": "f091c8624151070bebb6408d63ae94252d105683f769efc1528cca0ffbf5675e"
+  },
+  {
+    "path": "data/purity/abis_server.R",
+    "sha256": "ba606038c96b16e4482c37d83ab090005b9881dc39ecb0a9d24aebeb96c62b6c"
+  },
+  {
+    "path": "data/purity/cohortA_ABIS.txt",
+    "sha256": "4888f4ede6e62c9d2faf86e608993ac09a91e6d3d9ebaf161f9e79755da1da1f"
+  },
+  {
+    "path": "data/purity/cohortA_ABIS_TPM.txt",
+    "sha256": "d22042ec10e81c9b8c57c726505b4aa0004fe78f1fed4d8302dac4a64003f5b4"
+  },
+  {
+    "path": "data/purity/cohortA_ESTIMATE_raw.txt",
+    "sha256": "5ff556bf3e1b1d1135c8df63cde070f20b30c0d7962c3a2d35a00aa69cc7df81"
+  },
+  {
+    "path": "data/purity/cohortA_TPM.tsv",
+    "sha256": "f9dd8b0a7f6c7a3fb551af9f3dca30431163062416ea759afaef6315aecd36ba"
+  },
+  {
+    "path": "data/purity/cohortA_common.gct",
+    "sha256": "64d76771eabb961fb232ae1d954fa9db2ca405c1093a247a142837c2a4c78ae6"
+  },
+  {
+    "path": "data/purity/cohortA_composition.txt",
+    "sha256": "ed25eed78c135a2c6130ecbed7b283991fed646bbf35016e67522e9d72bae360"
+  },
+  {
+    "path": "data/purity/cohortA_estimate.gct",
+    "sha256": "8e99a6bca114519d05f1d2fed60d0b05548025c86157ab563c7724bcf9637eed"
+  },
+  {
+    "path": "data/purity/cohortA_linearCPM.tsv",
+    "sha256": "b8056f063926b077f0aae887271aa8c23fc3dfc47cd00013dfc3690a512d358e"
+  },
+  {
+    "path": "data/purity/cohortA_log2.gct",
+    "sha256": "ab56e02a7aa10f88d64d5bbacc1ac2f3b146cae7ef4ca53418c050100490b71f"
+  },
+  {
+    "path": "data/purity/cohortA_log2.tsv",
+    "sha256": "6f8e6edd4979cbbb6c3fd35f24b3a3fb786a2a387ce46768b1c05558853c8c39"
+  },
+  {
+    "path": "data/purity/cohortA_log2CPM.tsv",
+    "sha256": "1fe47ac5dc526c0dfd52d847c0625c26bfd6fea496d296389a3cdea4dfd1222e"
+  },
+  {
+    "path": "data/purity/cohortA_samplemap.txt",
+    "sha256": "41f5af55ebc23d4742ea5d29770cf2d0c3ccb6b8c4b75595c29b247ef52c7dbd"
+  },
+  {
+    "path": "data/purity/cohortB_ABIS.txt",
+    "sha256": "97c6b05758501e6274108e3e8fc4d4234c9704683569ca750ec62827b6cc6509"
+  },
+  {
+    "path": "data/purity/cohortB_ABIS_TPM.txt",
+    "sha256": "1b3216fccb805f597bd73d0be85d66178736a68876446689d594b545a8be840e"
+  },
+  {
+    "path": "data/purity/cohortB_ESTIMATE_raw.txt",
+    "sha256": "781705e5414119986f50fb5cfa509cdbfaf8ec8d3ed449bdc7701dd032178196"
+  },
+  {
+    "path": "data/purity/cohortB_TPM.tsv",
+    "sha256": "f218acc0375d2b59ffdf02610b96c9b3eb621af0daf0aad95001c164de593577"
+  },
+  {
+    "path": "data/purity/cohortB_common.gct",
+    "sha256": "c1601300dbdf88dc83570036331356beac1e6f178f1a16ffa8809bb3e8def77f"
+  },
+  {
+    "path": "data/purity/cohortB_composition.txt",
+    "sha256": "0a8e6fd182a41b361289029e476de2c2d3086b7390ca2a7fb2217722b02e8a52"
+  },
+  {
+    "path": "data/purity/cohortB_estimate.gct",
+    "sha256": "78893c164fe9d07d95bf6d8f8d8579e6a156300ca0697992ef6177b358bc9606"
+  },
+  {
+    "path": "data/purity/cohortB_linearTMM.tsv",
+    "sha256": "ca91b3c0c76c97f83afe07cd9c25483cb58c3587a3c62bb2427184e1f4f9ada3"
+  },
+  {
+    "path": "data/purity/cohortB_log2.tsv",
+    "sha256": "71b03cf029d53ecfc9ef1765c8699dcff2774ae784a566a65fe7153f72258b1d"
+  },
+  {
+    "path": "data/purity/cohortB_log2TMM.tsv",
+    "sha256": "a1c93eda0b48666c24462f0ceacac1986020a8902f2dff09776972e25bcd6d44"
+  },
+  {
+    "path": "data/purity/cohortB_samplemap.txt",
+    "sha256": "68ad23d4cea3112629b5003c583b878ea36c853adbca4f4dcfcd5ddabe150515"
+  },
+  {
+    "path": "data/purity/gene_lengths_lookup_v4.json",
+    "sha256": "51ad3a7a2d6cb183c9f07d59f2f0ff7239c2de1d72042771f17d0e2cd1a0f926"
+  },
+  {
+    "path": "data/purity/gene_lengths_mygene.tsv",
+    "sha256": "ea5cce651afe376d2029a040c049265f546bf32580bde82d0d21f9ae08a06854"
+  },
+  {
+    "path": "data/purity/labels.tsv",
+    "sha256": "d1f23abf75d47e5a20ba49af951e90664cc5c59c7cac610a49a3e89ccc2918f1"
+  },
+  {
+    "path": "data/purity/sigmatrixRNAseq.txt",
+    "sha256": "a86eaadb747a9d69e9a22df2e0d01af785244211c68111b568e603d57816bb23"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM1_ESM.pdf",
+    "sha256": "2e21b5792c5e2519a6e4dee84c2729a55036225d920dadbc98d8431c177c622c"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM2_ESM.pdf",
+    "sha256": "77fa197f8506e08a1c178bf3fd3fd4a44165cadcd44a6a92f4ce114381d655a5"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM3_ESM.xlsx",
+    "sha256": "401079a6a595a651d4622408189ab6954963fd14ee64f74b6d352f6f10f504db"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM4_ESM.pdf",
+    "sha256": "0eb7ae66f7555f1206c29c7ccfa63ad2d67f1f58a45f0f4c5da088d3cb491a0f"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM5_ESM.pdf",
+    "sha256": "dccbc01e096152303582bf4957cd30fabbe5b7a72d31543195a0bd300d9f31a5"
+  },
+  {
+    "path": "data/supplementary/41467_2026_68748_MOESM6_ESM.xlsx",
+    "sha256": "eef56c666a2cfcb9e4e534ab6068021f60cc4c1c6d53b7e46c22ea5ccb89fd45"
+  }
+]

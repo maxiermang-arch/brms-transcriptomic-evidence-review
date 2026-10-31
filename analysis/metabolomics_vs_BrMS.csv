@@ -1,0 +1,5 @@
+subtype,n,n_sig_metabolites_FDR05,n_metabolites,PCA_best_auc,PCA_perm_p
+BrMS1 neural,7,3,75,0.923,0.001
+BrMS2 immune/EMT,2,1,75,0.694,0.7772
+BrMS3 metabolic,19,0,75,0.759,0.046
+BrMS4 prolif.,5,0,75,0.686,0.5125

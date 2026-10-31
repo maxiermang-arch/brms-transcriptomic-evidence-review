@@ -1,0 +1,19 @@
+{
+  "src": "/Users/guohaitao/Desktop/神经外科/analysis/gse184869_symbol_matrix.pkl",
+  "n_pieces": 3,
+  "pieces": [
+    {
+      "name": "X",
+      "path": "/Users/guohaitao/Desktop/神经外科/analysis/gse184869_symbol_matrix.X.parquet"
+    },
+    {
+      "name": "labels",
+      "path": "/Users/guohaitao/Desktop/神经外科/analysis/gse184869_symbol_matrix.labels.parquet"
+    },
+    {
+      "name": "os",
+      "path": "/Users/guohaitao/Desktop/神经外科/analysis/gse184869_symbol_matrix.os.parquet"
+    }
+  ],
+  "format": "tuple(X=DataFrame, labels=Series, os=DataFrame|Series)"
+}

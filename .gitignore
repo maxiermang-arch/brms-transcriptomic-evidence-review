@@ -1,0 +1,14 @@
+# Local environments and generated cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.Rhistory
+.RData
+.env
+.env.*
+# Do not commit credentials
+*.pem
+*.key
+# Versioned processed inputs and canonical results are intentionally retained.

@@ -1,0 +1,15 @@
+{
+  "scenario": "label_null",
+  "generator": "bmc_module_model.module_replicate",
+  "original_seed_base": 20261031,
+  "replication_seed_base": 70261031,
+  "reps": 2000,
+  "n": 52,
+  "genes": 400,
+  "modules": 40,
+  "module_size": 10,
+  "rho": 0.6,
+  "inner_sets": 399,
+  "inner_probes": 20,
+  "changed_parameter": "seed_base only"
+}

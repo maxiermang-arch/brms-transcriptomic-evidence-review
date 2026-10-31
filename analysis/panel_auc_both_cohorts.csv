@@ -1,0 +1,17 @@
+,cohort1,cohort2,n_genes
+T cell (CD3),0.509,0.539,10
+CD8 T cell,0.511,0.543,8
+Treg,0.511,0.524,7
+NK cell,0.512,0.539,7
+B cell,0.5,0.538,7
+Myeloid/Macrophage,0.518,0.546,13
+Monocyte,0.512,0.534,7
+Dendritic cell,0.521,0.537,7
+Neutrophil,0.51,0.525,7
+Mast cell,0.511,0.514,6
+Cytolytic activity,0.512,0.538,7
+T-cell exhaustion,0.516,0.544,7
+Leukocyte (PTPRC),0.517,0.546,5
+EMT mesenchymal(+),0.522,0.536,16
+EMT epithelial(-),0.479,0.483,9
+IFN-gamma (HM),0.509,0.541,197

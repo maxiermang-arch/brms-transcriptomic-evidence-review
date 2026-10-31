@@ -1,0 +1,22 @@
+{
+  "backend": "Python matplotlib",
+  "exports": [
+    "PDF",
+    "SVG",
+    "PNG"
+  ],
+  "figures": {
+    "1": "Evidence and data provenance",
+    "2": "Conditional calibration is definition dependent",
+    "3": "Adjustment and proxy sensitivity",
+    "4": "Histology-conditional evidence",
+    "5": "Ranking differs from class assignment",
+    "6": "Distinct nulls and joint-rule limitations"
+  },
+  "source_directory": "repository/analysis/bmc_results",
+  "figure_6_panels": {
+    "a": "upper left: module reference benchmark",
+    "b": "right: joint-rule complete fractions",
+    "c": "lower left: noise selection"
+  }
+}

@@ -1,0 +1,13 @@
+cohort,contrast,p,verdict,q_bh,bonferroni_0.05
+A,1 vs 2,0.0161,reporting only,0.0644,False
+A,1 vs 3,0.3837,reporting only,0.4718,False
+A,1 vs 4,1.0,reporting only,1.0,False
+A,2 vs 3,0.0101,reporting only,0.0606,False
+A,2 vs 4,0.0344,reporting only,0.0826,False
+A,3 vs 4,0.229,reporting only,0.3435,False
+B,1 vs 2,0.1259,reporting only,0.2506,False
+B,1 vs 3,0.1462,reporting only,0.2506,False
+B,1 vs 4,0.5588,reporting only,0.6096,False
+B,2 vs 3,0.0038,reporting only,0.0456,True
+B,2 vs 4,0.0221,reporting only,0.0663,False
+B,3 vs 4,0.3932,reporting only,0.4718,False

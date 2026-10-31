@@ -1,0 +1,13 @@
+{
+  "same_mechanism_seed_repeats": 2000,
+  "standalone_normal_score_repeats": 2000,
+  "integrated_transfer_rows": 16,
+  "joint_pairs": 1800,
+  "joint_rows": 7200,
+  "benchmark_per_scenario": 2000,
+  "L2_max_difference": 0.0,
+  "simulated_concordance_tail": "positive_right",
+  "primary_aggregation": "both",
+  "sensitivity_aggregation": "any",
+  "empirical_permutations": 20000
+}

@@ -1,0 +1,9 @@
+screen,subtype,n_signatures,rho,p,q,passes_A2,q_primary_m8
+screen1_immune,1,12,0.7601,0.003,0.004,True,0.008
+screen1_immune,2,12,0.9091,0.003,0.004,True,0.008
+screen1_immune,3,12,0.8462,0.003,0.004,True,0.008
+screen1_immune,4,12,0.2657,0.2527,0.2527,False,0.2888
+screen2_broad,1,20,0.7684,0.009,0.012,True,0.011999999999999999
+screen2_broad,2,20,0.7747,0.006,0.012,True,0.0112
+screen2_broad,3,20,0.7504,0.007,0.012,True,0.0112
+screen2_broad,4,20,0.0587,0.4186,0.4186,False,0.4186

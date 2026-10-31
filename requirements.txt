@@ -1,0 +1,44 @@
+# 神经外科 BrMS 审计项目 · 依赖钉版
+# 复现命令：pip install -r requirements.txt
+#
+# 版本基准：本机已验证可用的 scfea 环境（2026-09-13）
+#   scanpy 1.12.4 / torch 2.13.0 / scikit-learn 1.9.0 / statsmodels 0.15.0 / anndata 0.13.3
+# 注意：主分析链路（01–19）只用到下面列出的库；scanpy/anndata/torch/scvi 等
+# 仅用于备选 deep-learning 路径（未在本审计中实际调用）。
+
+# —— 数据 / 通用 ——
+numpy>=1.26,<3
+pandas>=2.2,<4
+scipy>=1.13,<1.19
+scikit-learn>=1.5,<1.10
+statsmodels>=0.14,<0.16
+matplotlib>=3.9,<3.12
+
+# —— 表格 I/O ——
+openpyxl>=3.1,<3.3
+requests>=2.32,<3.0
+
+# —— 第三方接口（仅 06 用了 mygene 取 GSE184869 平台映射；仅 15 用了 mygene 取基因长度）——
+mygene>=3.2,<4.0
+
+# —— 备选 / 未来可能用到（README 提到；本审计未实际调用，注释保留供后续）——
+# scanpy>=1.12
+# anndata>=0.13
+# torch>=2.13
+# umap-learn>=0.5
+# magic-impute>=3.0
+# decoupler>=1.5
+# gseapy>=1.1
+# leidenalg>=0.10
+# beautifulsoup4>=4.12
+
+# R 依赖（estimate 不是 CRAN 包，从 R-Forge 本地源码安装，见 13_estimate_abis.R 顶部注释）
+# R >= 4.3
+# estimate_1.0.13.tar.gz  （下载：curl -sSL --http1.1 -C - --max-time 120 \
+#     https://download.r-forge.r-project.org/src/contrib/Archive/estimate/estimate_1.0.13.tar.gz -o estimate.tar.gz \
+#   && R CMD INSTALL --no-multiarch estimate.tar.gz）
+# MASS                （CRAN，自带）
+# Parquet input and Word document generation
+pyarrow>=15,<26
+python-docx>=1.1,<2
+# Exact versions of the revision checks: requirements-tested.txt

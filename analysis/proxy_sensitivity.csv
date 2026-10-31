@@ -1,0 +1,25 @@
+cohort,subtype,proxy,proxy_label,n_genes,raw_auc,null_mean,null_sd,emp_p,z,passes_L1,auc_strict,delta_vs_raw,passes_L2_strict
+A,BrMS1,P,Neuron projection guidance (primary),123,0.931,0.758,0.076,0.003,2.28,True,0.688,-0.243,False
+A,BrMS1,A1,Neuron differentiation (GO:0030182),165,0.7881,0.7669,0.0657,0.3988,0.3223,False,0.631,-0.1571,False
+A,BrMS1,A2,Gliogenesis (GO:0042063),24,0.8,0.673,0.1131,0.1374,1.1231,False,0.6119,-0.1881,False
+A,BrMS2,P,Curated CD3/CD8/myeloid/C1Q (primary),17,0.708,0.398,0.135,0.009,2.3,True,0.542,-0.166,False
+A,BrMS2,A1,Hallmark allograft rejection,192,0.5286,0.3413,0.0704,0.0035,2.6594,True,0.5089,-0.0197,False
+A,BrMS2,A2,T cell activation (GO:0042110),95,0.57,0.353,0.0894,0.01,2.4259,True,0.5345,-0.0355,False
+A,BrMS3,P,Epithelial junction CDH1/EPCAM/KRT (primary),9,0.884,0.451,0.108,0.0005,4.0,True,0.787,-0.097,True
+A,BrMS3,A1,Published BrMS3 top markers,5,0.7126,0.4635,0.1161,0.0155,2.1448,True,0.7008,-0.0118,True
+A,BrMS3,A2,Hallmark fatty acid metabolism,156,0.6,0.3639,0.0554,0.0005,4.2611,True,0.5563,-0.0437,False
+A,BrMS4,P,Hallmark E2F + G2-M (primary),315,0.888,0.606,0.049,0.0005,5.72,True,0.917,0.029,True
+A,BrMS4,A1,Hallmark E2F targets only,195,0.8833,0.6016,0.0603,0.0005,4.6711,True,0.9187,0.0354,True
+A,BrMS4,A2,Hallmark G2-M checkpoint only,190,0.875,0.6014,0.0602,0.0005,4.5467,True,0.9167,0.0417,True
+B,BrMS1,P,Neuron projection guidance (primary),113,0.872,0.486,0.098,0.0005,3.95,True,0.711,-0.161,True
+B,BrMS1,A1,Neuron differentiation (GO:0030182),129,0.6578,0.4837,0.0921,0.03,1.89,True,0.5428,-0.115,False
+B,BrMS1,A2,Gliogenesis (GO:0042063),20,0.8476,0.4885,0.119,0.002,3.0168,True,0.7326,-0.115,True
+B,BrMS2,P,Curated CD3/CD8/myeloid/C1Q (primary),17,0.932,0.518,0.14,0.001,2.96,True,0.695,-0.237,False
+B,BrMS2,A1,Hallmark allograft rejection,188,0.9135,0.5571,0.0981,0.0005,3.6326,True,0.6729,-0.2406,False
+B,BrMS2,A2,T cell activation (GO:0042110),84,0.8947,0.5448,0.1191,0.0005,2.9387,True,0.6316,-0.2632,False
+B,BrMS3,P,Epithelial junction CDH1/EPCAM/KRT (primary),9,0.86,0.491,0.125,0.002,2.95,True,0.653,-0.207,False
+B,BrMS3,A1,Published BrMS3 top markers,3,0.6289,0.494,0.1321,0.1589,1.0212,False,0.5067,-0.1222,False
+B,BrMS3,A2,Hallmark fatty acid metabolism,149,0.64,0.4487,0.094,0.0215,2.0341,True,0.4822,-0.1578,False
+B,BrMS4,P,Hallmark E2F + G2-M (primary),324,0.775,0.544,0.089,0.005,2.59,True,0.619,-0.156,False
+B,BrMS4,A1,Hallmark E2F targets only,200,0.7904,0.5392,0.1057,0.0065,2.3765,True,0.6187,-0.1717,False
+B,BrMS4,A2,Hallmark G2-M checkpoint only,197,0.7727,0.5402,0.1024,0.0055,2.2703,True,0.6162,-0.1566,False

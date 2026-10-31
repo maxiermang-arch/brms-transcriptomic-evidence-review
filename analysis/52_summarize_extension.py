@@ -1,0 +1,5 @@
+"""BMC canonical summary; legacy BIB narrative generator is archived."""
+from pathlib import Path
+import runpy
+if __name__ == '__main__':
+    runpy.run_path(str(Path(__file__).with_name('bmc_finalize_results.py')),run_name='__main__')

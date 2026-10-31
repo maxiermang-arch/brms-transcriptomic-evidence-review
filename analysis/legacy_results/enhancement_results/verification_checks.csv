@@ -1,0 +1,12 @@
+check,max_abs_difference,n
+A_raw_xlsx_to_counts,0.0,1278828
+R_rerun_cohortA_ESTIMATE_raw.txt,0.0,162
+R_rerun_cohortA_ABIS.txt,0.0,884
+R_rerun_cohortA_ABIS_TPM.txt,0.0,884
+R_rerun_cohortB_ESTIMATE_raw.txt,0.0,141
+R_rerun_cohortB_ABIS.txt,0.0,765
+R_rerun_cohortB_ABIS_TPM.txt,0.0,765
+shared_panels_match_producer,0.0,9
+A_historical_composition_reconstruction,6.661338147750939e-16,9
+B_historical_composition_reconstruction,2.220446049250313e-16,9
+training_features_holdout_invariance,0.0,30

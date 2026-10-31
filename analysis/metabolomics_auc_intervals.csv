@@ -1,0 +1,5 @@
+subtype,subtype_name,n_pos,n_neg,n_samples,n_metabolites,PCA_best_auc,boot_median,auc_lo,auc_hi,n_boot_valid,n_boot,auc_ci_width,n_distinct_labellings,perm_p_floor_random,PCA_perm_p,perm_p_at_floor
+1,BrMS1 neural,7,26,33,75,0.9231,0.9194,0.662,1.0,1999,2000,0.338,4272048,0.000999,0.001,True
+2,BrMS2 immune/EMT,2,31,33,75,0.6935,0.8128,0.5968,1.0,1732,2000,0.4032,528,0.000999,0.7772,False
+3,BrMS3 metabolic,19,14,33,75,0.7594,0.8152,0.6073,0.9667,2000,2000,0.3594,818809200,0.000999,0.046,False
+4,BrMS4 prolif.,5,28,33,75,0.6857,0.7473,0.5937,0.9568,1992,2000,0.3631,237336,0.000999,0.5125,False

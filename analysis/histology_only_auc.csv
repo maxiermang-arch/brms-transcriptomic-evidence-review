@@ -1,0 +1,5 @@
+subtype,n_pos,histology_only_auc,histology_only_auc_loo,loo_unpenalized_newton,loo_unpenalized_bfgs,loo_unpenalized_lbfgs,loo_unpenalized_spread,loo_separation_sensitive,loo_maxabs_beta_unpenalized,loo_maxabs_beta_ridge
+1,10,0.73,0.614,0.614,0.614,0.614,0.0,False,20.46,2.9
+2,13,0.957,0.876,0.917,0.876,0.876,0.041,True,24.25,5.94
+3,17,0.728,0.534,0.534,0.534,0.534,0.0,False,27.44,3.96
+4,12,0.778,0.65,0.65,0.65,0.65,0.0,False,25.08,3.22

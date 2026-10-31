@@ -1,0 +1,174 @@
+[
+  {
+    "panel": "Astrocytic",
+    "code_name": "\u8111\u7ec4\u7ec7-\u661f\u5f62\u80f6\u8d28",
+    "defined_n": 10,
+    "genes": [
+      "GFAP",
+      "AQP4",
+      "SLC1A2",
+      "SLC1A3",
+      "ALDH1L1",
+      "GJA1",
+      "S100B",
+      "SOX9",
+      "NFIA",
+      "SLC4A4"
+    ],
+    "used_A": 10,
+    "used_B": 10
+  },
+  {
+    "panel": "Neuronal",
+    "code_name": "\u8111\u7ec4\u7ec7-\u795e\u7ecf\u5143",
+    "defined_n": 18,
+    "genes": [
+      "RBFOX3",
+      "SYP",
+      "SNAP25",
+      "NEFL",
+      "NEFM",
+      "NEFH",
+      "MAP2",
+      "SCN2A",
+      "RELN",
+      "GABRA1",
+      "GRIN1",
+      "SYN1",
+      "CAMK2A",
+      "SYT1",
+      "GRIA2",
+      "KCNJ4",
+      "NECAB1",
+      "ERMN"
+    ],
+    "used_A": 18,
+    "used_B": 17
+  },
+  {
+    "panel": "Oligodendrocytic",
+    "code_name": "\u8111\u7ec4\u7ec7-\u5c11\u7a81\u80f6\u8d28",
+    "defined_n": 9,
+    "genes": [
+      "PLP1",
+      "MBP",
+      "MOBP",
+      "MAG",
+      "CNP",
+      "MOG",
+      "CLDN11",
+      "OPALIN",
+      "KLK6"
+    ],
+    "used_A": 9,
+    "used_B": 8
+  },
+  {
+    "panel": "Microglial",
+    "code_name": "\u8111\u7ec4\u7ec7-\u5c0f\u80f6\u8d28",
+    "defined_n": 5,
+    "genes": [
+      "P2RY12",
+      "TMEM119",
+      "CX3CR1",
+      "SALL1",
+      "GPR34"
+    ],
+    "used_A": 5,
+    "used_B": 5
+  },
+  {
+    "panel": "Pan-leukocyte",
+    "code_name": "\u514d\u75ab-\u6cdb\u767d\u7cfb",
+    "defined_n": 8,
+    "genes": [
+      "PTPRC",
+      "LCP2",
+      "HCLS1",
+      "ARHGDIB",
+      "CORO1A",
+      "CD48",
+      "CD52",
+      "CD53"
+    ],
+    "used_A": 8,
+    "used_B": 8
+  },
+  {
+    "panel": "T/NK",
+    "code_name": "\u514d\u75ab-T/NK",
+    "defined_n": 10,
+    "genes": [
+      "CD3D",
+      "CD3E",
+      "CD2",
+      "CD8A",
+      "CD8B",
+      "NKG7",
+      "GNLY",
+      "KLRD1",
+      "IL2RB",
+      "TRAC"
+    ],
+    "used_A": 9,
+    "used_B": 9
+  },
+  {
+    "panel": "Myeloid",
+    "code_name": "\u514d\u75ab-\u9ad3\u7cfb",
+    "defined_n": 10,
+    "genes": [
+      "CD68",
+      "CD14",
+      "AIF1",
+      "LYZ",
+      "TYROBP",
+      "FCER1G",
+      "C1QA",
+      "C1QB",
+      "ITGAM",
+      "CSF1R"
+    ],
+    "used_A": 10,
+    "used_B": 10
+  },
+  {
+    "panel": "Fibroblast",
+    "code_name": "\u57fa\u8d28-\u6210\u7ea4\u7ef4",
+    "defined_n": 11,
+    "genes": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM",
+      "FAP",
+      "PDGFRB",
+      "ACTA2",
+      "FBN1",
+      "POSTN",
+      "THY1"
+    ],
+    "used_A": 11,
+    "used_B": 11
+  },
+  {
+    "panel": "Epithelial",
+    "code_name": "\u4e0a\u76ae-\u80bf\u7624",
+    "defined_n": 10,
+    "genes": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CDH1",
+      "CLDN3",
+      "CLDN4",
+      "MUC1",
+      "KRT7",
+      "ELF3"
+    ],
+    "used_A": 10,
+    "used_B": 10
+  }
+]

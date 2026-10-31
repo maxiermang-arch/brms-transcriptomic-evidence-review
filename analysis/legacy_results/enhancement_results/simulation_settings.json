@@ -1,0 +1,98 @@
+{
+  "scenarios": [
+    {
+      "name": "null_small",
+      "signal": 0.0,
+      "conf": 0.0,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_small",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "histology_only",
+      "signal": 0.0,
+      "conf": 1.5,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_histology",
+      "signal": 1.2,
+      "conf": 1.5,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_n100",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 100,
+      "nB": 100,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_n200",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 200,
+      "nB": 200,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_imbalanced",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": true,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_highcorr",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.75,
+      "imb": false,
+      "shift": 0.0
+    },
+    {
+      "name": "signal_shift",
+      "signal": 1.2,
+      "conf": 0.0,
+      "nA": 52,
+      "nB": 45,
+      "rho": 0.35,
+      "imb": false,
+      "shift": 1.0
+    }
+  ],
+  "reps": 200,
+  "inner_reference": 399,
+  "inner_probes": 20,
+  "seed": 20750913
+}

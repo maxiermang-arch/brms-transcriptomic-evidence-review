@@ -1,0 +1,13 @@
+subtype,proxy,name,used_A,used_B
+1,P,Neuron projection guidance (primary),123,113
+1,A1,Neuron differentiation (GO:0030182),165,129
+1,A2,Gliogenesis (GO:0042063),24,20
+2,P,Curated CD3/CD8/myeloid/C1Q (primary),17,17
+2,A1,Hallmark allograft rejection,192,188
+2,A2,T cell activation (GO:0042110),95,84
+3,P,Epithelial junction CDH1/EPCAM/KRT (primary),9,9
+3,A1,Published BrMS3 top markers,5,3
+3,A2,Hallmark fatty acid metabolism,156,149
+4,P,Hallmark E2F + G2-M (primary),315,324
+4,A1,Hallmark E2F targets only,195,200
+4,A2,Hallmark G2-M checkpoint only,190,197

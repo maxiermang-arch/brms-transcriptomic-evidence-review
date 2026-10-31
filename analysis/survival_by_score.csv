@@ -1,0 +1,7 @@
+panel,n_genes,HR_per_SD,HR_lo,HR_hi,cox_p,logrank_p
+immune (PTPRC leukocyte),5,0.758,0.546,1.051,0.097,0.4491
+immune (T+myeloid),10,0.767,0.556,1.059,0.1067,0.2106
+metabolic (OXPHOS+FAO),317,1.032,0.75,1.419,0.849,0.8056
+proliferative (E2F+G2M),324,1.176,0.848,1.632,0.3317,0.2774
+neural (proj guidance),113,0.898,0.679,1.187,0.4496,0.4537
+EMT epithelial(-),9,0.864,0.625,1.193,0.3744,0.2082

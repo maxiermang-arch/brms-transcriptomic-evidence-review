@@ -1,0 +1,58 @@
+{
+  "脑组织-少突胶质": {
+    "producer_only": [
+      "CLDN11",
+      "CNP",
+      "KLK6"
+    ],
+    "common_only": [
+      "MYRF",
+      "TUBB2B",
+      "TUBB4A"
+    ]
+  },
+  "脑组织-小胶质": {
+    "producer_only": [
+      "GPR34",
+      "SALL1"
+    ],
+    "common_only": [
+      "HEXB",
+      "TREM2"
+    ]
+  },
+  "免疫-髓系": {
+    "producer_only": [
+      "ITGAM"
+    ],
+    "common_only": [
+      "CX3CR1"
+    ]
+  },
+  "基质-成纤维": {
+    "producer_only": [
+      "ACTA2",
+      "FAP",
+      "FBN1",
+      "POSTN",
+      "THY1"
+    ],
+    "common_only": [
+      "BGN",
+      "COL5A1",
+      "COL5A2",
+      "PDPN",
+      "VIM"
+    ]
+  },
+  "上皮-肿瘤": {
+    "producer_only": [
+      "ELF3",
+      "KRT7"
+    ],
+    "common_only": [
+      "OCLN",
+      "TJP1"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+panel,n_genes,auc_c1,auc_c2,delta
+T cell (CD3),10,0.706,0.872,0.166
+CD8 T cell,8,0.702,0.906,0.204
+Treg,7,0.536,0.729,0.193
+NK cell,7,0.663,0.861,0.198
+B cell,7,0.663,0.887,0.224
+Myeloid/Macrophage,13,0.631,0.944,0.312
+Monocyte,7,0.452,0.846,0.394
+Dendritic cell,7,0.475,0.808,0.333
+Neutrophil,7,0.304,0.778,0.474
+Mast cell,6,0.454,0.654,0.2
+Cytolytic activity,7,0.682,0.861,0.178
+T-cell exhaustion,7,0.702,0.887,0.185
+Leukocyte (PTPRC),5,0.675,0.944,0.269
+EMT mesenchymal(+),16,0.574,0.838,0.264
+EMT epithelial(-),9,0.067,0.459,0.392
+IFN-gamma (HM),197,0.497,0.906,0.409

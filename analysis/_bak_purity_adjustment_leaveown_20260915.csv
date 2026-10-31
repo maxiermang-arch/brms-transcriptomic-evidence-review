@@ -1,0 +1,9 @@
+cohort,subtype,program,n_genes,raw_auc,adj_purity_auc,adj_leaveown_auc,delta,R2_on_covars,own_domain,own_domain_auc,covariates
+A,BrMS1 neural,神经投影导向 (113 基因),123,,,,,0.588,脑组织,,免疫合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+A,BrMS2 immune/EMT,免疫标记 CD3/CD8/髓系/C1Q (18),17,,,,,0.938,免疫,,脑组织合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+A,BrMS3 metabolic,上皮连接 CDH1/EPCAM/KRT (9),9,,,,,0.498,上皮,,脑组织合计|免疫合计|基质-成纤维|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+A,BrMS4 prolif.,E2F + G2-M (324),315,,,,,0.389,-,,脑组织合计|免疫合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+B,BrMS1 neural,神经投影导向 (113 基因),113,0.872,0.856,0.711,-0.16,0.335,脑组织,0.944,免疫合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+B,BrMS2 immune/EMT,免疫标记 CD3/CD8/髓系/C1Q (18),17,0.932,0.571,0.564,-0.368,0.926,免疫,0.944,脑组织合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+B,BrMS3 metabolic,上皮连接 CDH1/EPCAM/KRT (9),9,0.86,0.831,0.649,-0.211,0.505,上皮,0.896,脑组织合计|免疫合计|基质-成纤维|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE
+B,BrMS4 prolif.,E2F + G2-M (324),324,0.775,0.753,0.619,-0.157,0.478,-,,脑组织合计|免疫合计|基质-成纤维|上皮-肿瘤|ESTIMATE_Stromal|ESTIMATE_Immune|ESTIMATE_score|Purity_ESTIMATE

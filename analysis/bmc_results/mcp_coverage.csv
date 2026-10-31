@@ -1,0 +1,21 @@
+cohort,celltype,signature_genes,measured
+A,B lineage,9,8
+A,CD8 T cells,1,1
+A,Cytotoxic lymphocytes,7,7
+A,Endothelial cells,33,30
+A,Fibroblasts,8,8
+A,Monocytic lineage,7,7
+A,Myeloid dendritic cells,6,5
+A,NK cells,9,9
+A,Neutrophils,15,15
+A,T cells,16,14
+B,B lineage,9,8
+B,CD8 T cells,1,1
+B,Cytotoxic lymphocytes,7,6
+B,Endothelial cells,33,31
+B,Fibroblasts,8,8
+B,Monocytic lineage,7,7
+B,Myeloid dendritic cells,6,3
+B,NK cells,9,4
+B,Neutrophils,15,12
+B,T cells,16,14

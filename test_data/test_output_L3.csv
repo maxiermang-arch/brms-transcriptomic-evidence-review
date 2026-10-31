@@ -1,0 +1,6 @@
+cohort,programme,auc_obs,ci_lo,ci_hi,perm_p,passes_L3
+A,1,0.9363,0.8352,1.0,0.001,True
+A,2,0.7881,0.6578,0.8963,0.002,True
+A,3,0.923,0.8207,0.9956,0.001,True
+A,4,0.9644,0.9127,0.996,0.001,True
+A,neg_control,0.4993,0.3274,0.665,0.5285,False

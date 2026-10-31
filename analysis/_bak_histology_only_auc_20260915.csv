@@ -1,0 +1,5 @@
+subtype,n_pos,histology_only_auc
+1,10,0.73
+2,13,0.957
+3,17,0.728
+4,12,0.778

@@ -1,0 +1,9 @@
+cohort,subtype,subtype_code,program,n_genes_used,n_samples,auc_one_vs_rest
+A,BrMS1 neural,1,neural.json::Neuron Projection Guidance (GO:0097485),123,10,0.931
+A,BrMS2 immune/EMT,2,hallmark.json::Allograft Rejection,192,13,0.529
+A,BrMS3 metabolic,3,hallmark.json::Fatty Acid Metabolism,156,17,0.6
+A,BrMS4 prolif.,4,hallmark.json::E2F Targets,195,12,0.883
+B,BrMS1 neural,1,neural.json::Neuron Projection Guidance (GO:0097485),113,11,0.872
+B,BrMS2 immune/EMT,2,hallmark.json::Allograft Rejection,188,7,0.914
+B,BrMS3 metabolic,3,hallmark.json::Fatty Acid Metabolism,149,15,0.64
+B,BrMS4 prolif.,4,hallmark.json::E2F Targets,200,12,0.79

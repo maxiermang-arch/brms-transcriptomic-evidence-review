@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="388.26pt" height="280.512pt" viewBox="0 0 388.26 280.512" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T17:27:06.630730</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.512 
+L 388.26 280.512 
+L 388.26 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 18.4158 41.848855 
+L 315.57455 41.848855 
+Q 320.37455 41.848855 320.37455 37.048855 
+L 320.37455 17.84448 
+Q 320.37455 13.04448 315.57455 13.04448 
+L 18.4158 13.04448 
+Q 13.6158 13.04448 13.6158 17.84448 
+L 13.6158 37.048855 
+Q 13.6158 41.848855 18.4158 41.848855 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 24.724011)">Released labels and processed expression</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 34.326199)">A: 52 mixed-origin brain metastases; B: 45 breast-origin brain metastases</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 18.4158 84.426775 
+L 304.4208 84.426775 
+Q 309.2208 84.426775 309.2208 79.626775 
+L 309.2208 60.4224 
+Q 309.2208 55.6224 304.4208 55.6224 
+L 18.4158 55.6224 
+Q 13.6158 55.6224 13.6158 60.4224 
+L 13.6158 79.626775 
+Q 13.6158 84.426775 18.4158 84.426775 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 67.301931)">References and conditional evidence</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 76.904119)">Competitive gene-set references; fixed-label randomization; calibration</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 18.4158 127.004695 
+L 294.9733 127.004695 
+Q 299.7733 127.004695 299.7733 122.204695 
+L 299.7733 103.00032 
+Q 299.7733 98.20032 294.9733 98.20032 
+L 18.4158 98.20032 
+Q 13.6158 98.20032 13.6158 103.00032 
+L 13.6158 122.204695 
+Q 13.6158 127.004695 18.4158 127.004695 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 109.879851)">Sensitivity and cohort context</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 119.482039)">12 proxies in two cohorts; refitted composition adjustment; histology</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_5">
+     <path d="M 18.4158 169.582615 
+L 298.6658 169.582615 
+Q 303.4658 169.582615 303.4658 164.782615 
+L 303.4658 145.57824 
+Q 303.4658 140.77824 298.6658 140.77824 
+L 18.4158 140.77824 
+Q 13.6158 140.77824 13.6158 145.57824 
+L 13.6158 164.782615 
+Q 13.6158 169.582615 18.4158 169.582615 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 152.457771)">Frozen transfer</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 162.059959)">Train A / evaluate B and reverse; probability ranks and class decisions</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_6">
+     <path d="M 18.4158 212.160535 
+L 342.05205 212.160535 
+Q 346.85205 212.160535 346.85205 207.360535 
+L 346.85205 188.15616 
+Q 346.85205 183.35616 342.05205 183.35616 
+L 18.4158 183.35616 
+Q 13.6158 183.35616 13.6158 188.15616 
+L 13.6158 207.360535 
+Q 13.6158 212.160535 18.4158 212.160535 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 195.035691)">Operating characteristics</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 204.637879)">Nine paired-cohort scenarios; module-reference and noise-selection benchmarks</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_7">
+     <path d="M 18.4158 254.73783 
+L 313.63705 254.73783 
+Q 318.43705 254.73783 318.43705 249.93783 
+L 318.43705 230.73408 
+Q 318.43705 225.93408 313.63705 225.93408 
+L 18.4158 225.93408 
+Q 13.6158 225.93408 13.6158 230.73408 
+L 13.6158 249.93783 
+Q 13.6158 254.73783 18.4158 254.73783 
+z
+" style="fill: #eef3f7; stroke: #235789; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 237.612986)">Output</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(18.4158 247.215174)">Dimension-specific evidence and uncertainty; operational joint pass rates</text>
+   </g>
+  </g>
+ </g>
+</svg>

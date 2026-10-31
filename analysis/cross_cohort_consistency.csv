@@ -1,0 +1,5 @@
+subtype,cohort1_bestAUC,cohort2_bestAUC,spearman_rho,p_perm,rho_star
+BrMS1,0.843,0.644,0.751,0.0085,**
+BrMS2,0.706,0.944,0.653,0.0455,*
+BrMS3,0.884,0.86,0.638,0.0285,*
+BrMS4,0.587,0.598,-0.043,0.5487,ns
